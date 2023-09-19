@@ -1,3 +1,4 @@
-# diece_gyak
+# dice kész
 
-A new Flutter project.
+<img src="https://raw.githubusercontent.com/vellt/dice_is_done/main/preview.gif">
+
